@@ -1,0 +1,13 @@
+# Node/Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Netlify (opcional local)
+.netlify/
